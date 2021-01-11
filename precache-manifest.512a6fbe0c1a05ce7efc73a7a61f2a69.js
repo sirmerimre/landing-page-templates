@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54376de2113e277166d3c24a4022e457",
+    "revision": "36c0047e7a04d91e1cc66ca1be87f1db",
     "url": "/landing-page-templates/index.html"
   },
   {
-    "revision": "5f9f360a634f148048dd",
-    "url": "/landing-page-templates/static/css/2.ea6c8298.chunk.css"
+    "revision": "46cb3187055b8e99f2e8",
+    "url": "/landing-page-templates/static/css/2.86d53a23.chunk.css"
   },
   {
-    "revision": "36322c0c1ca36620b085",
-    "url": "/landing-page-templates/static/css/main.00af93bb.chunk.css"
+    "revision": "bae86310d91fa531a929",
+    "url": "/landing-page-templates/static/css/main.3474e328.chunk.css"
   },
   {
-    "revision": "5f9f360a634f148048dd",
-    "url": "/landing-page-templates/static/js/2.3435e87f.chunk.js"
+    "revision": "46cb3187055b8e99f2e8",
+    "url": "/landing-page-templates/static/js/2.69898e7c.chunk.js"
   },
   {
-    "revision": "36322c0c1ca36620b085",
-    "url": "/landing-page-templates/static/js/main.9767e81a.chunk.js"
+    "revision": "bae86310d91fa531a929",
+    "url": "/landing-page-templates/static/js/main.e072cfdc.chunk.js"
   },
   {
     "revision": "97fd452e9febcd5b9a84",
